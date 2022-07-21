@@ -3,7 +3,7 @@ a script to add marker tags to a wav file to make a loop (useful for samplerbox)
 
 just run :
 python2 loopmarker.py
-and follow the instructions
+and follow the instructions.
 Make a backup of your file first.
 
 To be improved :
